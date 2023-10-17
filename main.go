@@ -6,7 +6,7 @@ func main() {
 	// Data uji
 	tagihan1 := 275.0
 	tagihan2 := 40.0
-	tagihan3 := 430.0
+	tagihan3 := 432.0
 
 	// menghitung tip
 	hitungTip := func(tagihan float64) float64 {
